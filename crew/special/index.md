@@ -24,4 +24,4 @@ Patrick McReary, also known as Packie, is the old-school Liberty City robber, no
 
 ![Avi Schwarzman](https://raw.githubusercontent.com/Reddey/dchelp/master/crew/special/Avi_Schwarzman.png)
 
-Avi Scwharzman, the best of the best (In terms of hacking). Providing an entire additional minute in the vault, he is the main man you need to pick when playing with 2 players. 1 Extra minute means either 2 additional carts of Money / Gold / Diamonds (Unreleased) or 4 additional paintings. He can be unlocked by destroying 50 signal jammers in freeroam. (Useful guide can be found [here](dogfront.com))
+Avi Scwharzman, the best of the best (In terms of hacking). Providing an entire additional minute in the vault, he is the main man you need to pick when playing with 2 players. 1 Extra minute means either 2 additional carts of Money / Gold / Diamonds (Unreleased) or 4 additional paintings. He can be unlocked by destroying 50 signal jammers in freeroam. (Useful guide can be found [here](https://steamcommunity.com/sharedfiles/filedetails/?id=1934827779&searchtext=signal+jammer))
