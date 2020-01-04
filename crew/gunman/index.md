@@ -7,3 +7,5 @@ Your gunmen provide your weapons that you will be using in the heist itself. Thi
 [Return to the main Crew page](https://reddey.github.io/dchelp/crew)
 
 [Return to the main Site page](https://reddey.github.io/dchelp/)
+
+## Sorting from cheapest to most expensive, here are all possible gunmen you can have:
