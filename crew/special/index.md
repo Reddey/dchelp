@@ -14,9 +14,13 @@ This subpage contains multiple crewmen not sorted in any way, they provide eithe
 
 Chester McCoy is a unique crewman (So far) as he can fulfill 2 jobs, either sourcing vehicles or weapons. Beware though as picking him twice will charge you the both times instead of only once. (20% If he is picked for both the Gunman role and Driver role)
 
+## -------------------------------------------------
+
 ![Patrick McReary](dogfront.com)
 
 Patrick McReary, also known as Packie, is the old-school Liberty City robber, now come to Los Santos since 2013 and looking to be busted out in 2019. He can be unlocked by freeing him from a police van that randomly spawns in freemode when there are 3 active players.
+
+## -------------------------------------------------
 
 ![Avi Schwarzman](dogfront.com)
 
