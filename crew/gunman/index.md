@@ -14,4 +14,4 @@ Your gunmen provide your weapons that you will be using in the heist itself. Thi
 
 ![Charlie Reed](https://github.com/Reddey/dchelp/blob/master/crew/gunman/Charlie_Reed.png?raw=true)
 
-![Gustavo Mota](dogfront.com)
+![Gustavo Mota](https://github.com/Reddey/dchelp/blob/master/crew/gunman/Gustavo_Mota.png?raw=true)
