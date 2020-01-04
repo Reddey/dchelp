@@ -11,3 +11,7 @@ Your gunmen provide your weapons that you will be using in the heist itself. Thi
 ## Sorting from cheapest to most expensive, here are all possible gunmen you can have:
 
 ![Karl Abolaji](https://github.com/Reddey/dchelp/blob/master/crew/gunman/Karl_Abolaji.png?raw=true)
+
+![Charlie Reed](https://github.com/Reddey/dchelp/blob/master/crew/gunman/Charlie_Reed.png?raw=true)
+
+![Gustavo Mota](dogfront.com)
