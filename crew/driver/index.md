@@ -10,11 +10,13 @@ Your drivers will provide you cars and optionally, clean cars. Clean cars are us
 
 ## Sorting from cheapest to most expensive, here are all the standard drivers you can have:
 
-![Karim Denz](https://github.com/Reddey/dchelp/blob/master/crew/driver/Karim_Denz.png?raw=true)
+![Karim Denz](https://github.com/Reddey/dchelp/blob/master/crew/driver/Karim_Denz_Update1.png?raw=true)
 
-![Taliana Martinez](https://github.com/Reddey/dchelp/blob/master/crew/driver/Taliana_Martinez.png?raw=true)
+![Taliana Martinez](https://github.com/Reddey/dchelp/blob/master/crew/driver/Taliana_Martinez_Update1.png?raw=true)
 
-![Eddie Toh](https://github.com/Reddey/dchelp/blob/master/crew/driver/Eddie_Toh_Update1.png?raw=true)
+![Eddie Toh](https://github.com/Reddey/dchelp/blob/master/crew/driver/Eddie_Toh_Update2.png?raw=true)
+
+Eddie Toh is currently (As of 1/5/2020) is glitched. All of his getaway vehicles are turned into Kurumas (Non-armored version)
 
 ## In addition to the standard drivers...
 
