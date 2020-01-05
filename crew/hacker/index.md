@@ -10,11 +10,11 @@ Your hackers will provide your time in the vault. The better the hacker, the mor
 
 ## Sorting from cheapest to most expensive, here are all the standard hackers you can have:
 
-![Rickie Lukens](https://github.com/Reddey/dchelp/blob/master/crew/hacker/Rickie_Lukens.png?raw=true)
+![Rickie Lukens](https://github.com/Reddey/dchelp/blob/master/crew/hacker/Rickie_Lukens_Update1.png?raw=true)
 
-![Christian Feltz](https://github.com/Reddey/dchelp/blob/master/crew/hacker/Christian_Feltz.png?raw=true)
+![Christian Feltz](https://github.com/Reddey/dchelp/blob/master/crew/hacker/Christian_Feltz_Update1.png?raw=true)
 
-![Paige Harris](https://github.com/Reddey/dchelp/blob/master/crew/hacker/Paige_Harris.png?raw=true)
+![Paige Harris](https://github.com/Reddey/dchelp/blob/master/crew/hacker/Paige_Harris_Update1.png?raw=true)
 
 ## In addition to the standard hackers...
 
