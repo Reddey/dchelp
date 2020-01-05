@@ -10,9 +10,9 @@ Your gunmen provide your weapons that you will be using in the heist itself. Thi
 
 ## Sorting from cheapest to most expensive, here are all the standard gunmen you can have:
 
-![Karl Abolaji](https://github.com/Reddey/dchelp/blob/master/crew/gunman/Karl_Abolaji.png?raw=true)
+![Karl Abolaji](https://github.com/Reddey/dchelp/blob/master/crew/gunman/Karl_Abolaji_Update1.png?raw=true)
 
-![Gustavo Mota](https://github.com/Reddey/dchelp/blob/master/crew/gunman/Gustavo_Mota.png?raw=true)
+![Gustavo Mota](https://github.com/Reddey/dchelp/blob/master/crew/gunman/Gustavo_Mota_Update1.png?raw=true)
 
 ## In addition to the standard gunmen...
 
