@@ -12,12 +12,10 @@ Your drivers will provide you cars and optionally, clean cars. Clean cars are us
 
 ![Karim Denz](https://github.com/Reddey/dchelp/blob/master/crew/driver/Karim_Denz.png?raw=true)
 
-![Zach Nicholas](https://github.com/Reddey/dchelp/blob/master/crew/driver/Zach_Nelson.png?raw=true)
-
 ![Taliana Martinez](https://github.com/Reddey/dchelp/blob/master/crew/driver/Taliana_Martinez.png?raw=true)
 
 ![Eddie Toh](https://github.com/Reddey/dchelp/blob/master/crew/driver/Eddie_Toh_Update1.png?raw=true)
 
 ## In addition to the standard drivers...
 
-...there is also 1 [special driver](https://reddey.github.io/dchelp/crew/special)
+...there are also 2 [special drivers](https://reddey.github.io/dchelp/crew/special)
