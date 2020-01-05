@@ -16,7 +16,7 @@ Your drivers will provide you cars and optionally, clean cars. Clean cars are us
 
 ![Taliana Martinez](https://github.com/Reddey/dchelp/blob/master/crew/driver/Taliana_Martinez.png?raw=true)
 
-![Eddie Toh](https://github.com/Reddey/dchelp/blob/master/crew/driver/Eddie_Toh.png?raw=true)
+![Eddie Toh](https://github.com/Reddey/dchelp/blob/master/crew/driver/Eddie_Toh_Update1.png?raw=true)
 
 ## In addition to the standard drivers...
 
