@@ -16,7 +16,7 @@ Your drivers will provide you cars and optionally, clean cars. Clean cars are us
 
 ![Eddie Toh](https://github.com/Reddey/dchelp/blob/master/crew/driver/Eddie_Toh_Update2.png?raw=true)
 
-Eddie Toh is currently (As of 1/5/2020) is glitched. All of his getaway vehicles are turned into Kurumas (Non-armored version)
+Eddie Toh is currently (As of 1/5/2020) glitched. All of his getaway vehicles are turned into Kurumas (Non-armored version)
 
 ## In addition to the standard drivers...
 
