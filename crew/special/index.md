@@ -30,3 +30,8 @@ Avi Scwharzman, the best of the best (In terms of hacking). Providing an entire 
 
 ![Yohan Blair](https://github.com/Reddey/dchelp/blob/master/crew/special/Yohan_Blair_Update1.png?raw=true)
 Yohan Blair, he is your Nightclub technician. This automaticly means he has the brains needed to keep the vault open and cameras tricked while you and your teammate sweep the goods. Even though he is skilled in obtaining nightclub cargo, it doesn't mean he will be perfect at delaying the vault response. To unlock him you must buy a nightclub and complete all setup missions.
+
+## -------------------------------------------------
+
+![Zach Nicholas](https://github.com/Reddey/dchelp/blob/master/crew/special/Zach_Nelson_Update1.png?raw=true)
+Zach Nicholas, your personal MC Clubhouse in-shop mechanic. Skilled at upgrading bikes, this shows off in this heist as his vehicle selection is only consistent of bikes. Coming at a cheap price point and providing good performing crotch rockets, its not a surprise the daredevils might pick him. You unlock him by buying an MC Clubhouse.
