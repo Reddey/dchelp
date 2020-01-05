@@ -35,3 +35,8 @@ Yohan Blair, he is your Nightclub technician. This automaticly means he has the 
 
 ![Zach Nicholas](https://github.com/Reddey/dchelp/blob/master/crew/special/Zach_Nelson_Update1.png?raw=true)
 Zach Nelson, your personal MC Clubhouse in-shop mechanic. Skilled at upgrading bikes, this shows off in this heist as his vehicle selection is only consistent of bikes. Coming at a cheap price point and providing good performing crotch rockets, its not a surprise the daredevils might pick him. You unlock him by buying an MC Clubhouse.
+
+## -------------------------------------------------
+
+![Charlie Reed](https://github.com/Reddey/dchelp/blob/master/crew/special/Charlie_Reed_Update1.png?raw=true)
+Charlie Reed, Ex-USAF mechanic, now working for you. He brings decent guns for a reasonable price. But like most other gunmen, if you switch between Big Con and Silent & Sneaky non stop, he is at a disadvantage due to all guns being 1 shot kills. You unlock him by buying a Hangar and Hangar Workshop
