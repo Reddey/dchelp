@@ -25,3 +25,8 @@ Patrick McReary, also known as Packie, is the old-school Liberty City robber, no
 ![Avi Schwarzman](https://raw.githubusercontent.com/Reddey/dchelp/master/crew/special/Avi_Schwarzman.png)
 
 Avi Scwharzman, the best of the best (In terms of hacking). Providing an entire additional minute in the vault, he is the main man you need to pick when playing with 2 players. 1 Extra minute means either 2 additional carts of Money / Gold / Diamonds (Unreleased) or 4 additional paintings. He can be unlocked by destroying 50 signal jammers in freeroam. (Useful guide can be found [here](https://steamcommunity.com/sharedfiles/filedetails/?id=1934827779&searchtext=signal+jammer){:target="_blank"})
+
+## -------------------------------------------------
+
+![Yohan Blair](https://github.com/Reddey/dchelp/blob/master/crew/special/Yohan_Blair_Update1.png?raw=true)
+Yohan Blair, he is your Nightclub technician. This automaticly means he has the brains needed to keep the vault open and cameras tricked while you and your teammate sweep the goods. Even though he is skilled in obtaining nightclub cargo, it doesn't mean he will be perfect at delaying the vault response. To unlock him you must buy a nightclub and complete all setup missions.
