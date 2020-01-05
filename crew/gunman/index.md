@@ -12,10 +12,8 @@ Your gunmen provide your weapons that you will be using in the heist itself. Thi
 
 ![Karl Abolaji](https://github.com/Reddey/dchelp/blob/master/crew/gunman/Karl_Abolaji.png?raw=true)
 
-![Charlie Reed](https://github.com/Reddey/dchelp/blob/master/crew/gunman/Charlie_Reed.png?raw=true)
-
 ![Gustavo Mota](https://github.com/Reddey/dchelp/blob/master/crew/gunman/Gustavo_Mota.png?raw=true)
 
 ## In addition to the standard gunmen...
 
-...there are also 2 [special gunmen](https://reddey.github.io/dchelp/crew/special)
+...there are also 3 [special gunmen](https://reddey.github.io/dchelp/crew/special)
