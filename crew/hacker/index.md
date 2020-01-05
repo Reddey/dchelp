@@ -12,12 +12,10 @@ Your hackers will provide your time in the vault. The better the hacker, the mor
 
 ![Rickie Lukens](https://github.com/Reddey/dchelp/blob/master/crew/hacker/Rickie_Lukens.png?raw=true)
 
-![Yohan Blair](https://github.com/Reddey/dchelp/blob/master/crew/hacker/Yohan_Blair.png?raw=true)
-
 ![Christian Feltz](https://github.com/Reddey/dchelp/blob/master/crew/hacker/Christian_Feltz.png?raw=true)
 
 ![Paige Harris](https://github.com/Reddey/dchelp/blob/master/crew/hacker/Paige_Harris.png?raw=true)
 
 ## In addition to the standard hackers...
 
-...there is also 1 [special hacker](https://reddey.github.io/dchelp/crew/special)
+...there are also 2 [special hackers](https://reddey.github.io/dchelp/crew/special)
