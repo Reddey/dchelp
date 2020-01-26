@@ -7,3 +7,7 @@ Robbing the Diamond at first may seem like a daunting task, with so many options
 ## Your crew.
 
 [Your crew](https://reddey.github.io/dchelp/crew) is the most important part you must consider, as it directly affects how much money you'll make at the final bit of the heist. You need to take careful consideration in picking them, but a general consensus is most of the time, the cheapest options are the best.
+
+## The map.
+
+[The map](https://reddey.github.io/dchelp/map) is currently under construction.
