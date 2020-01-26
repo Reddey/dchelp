@@ -10,4 +10,4 @@ Robbing the Diamond at first may seem like a daunting task, with so many options
 
 ## The map.
 
-[The map](https://reddey.github.io/dchelp/map) is currently under construction.
+[The maps](https://reddey.github.io/dchelp/maps) are a sub-category to check out, if you want to get an idea about how to navigate / plan out the grand heist. It includes mapping for (Currently 2 out of) 4 different floors within the Diamond Casino and Resort
