@@ -13,4 +13,4 @@ If you wish to see a picture with Points of Interest, Short Description and Note
 Casino Floor
 Includes: The Security Office; Daily Vault; Waste Disposal; Laundry Room; Staff Lounge; (Various) Stairwells and Staff Entrance / Exit
 
-[![Image](https://github.com/Reddey/dchelp/blob/master/maps/images/Complete%20Casino%20Level.png?raw=true)](reddey.github.io/dchelp/maps/cld "Click on the image to open the Detailed Printed Version")
+[![Image](https://github.com/Reddey/dchelp/blob/master/maps/images/Complete%20Casino%20Level.png?raw=true)](https://reddey.github.io/dchelp/maps/cld "Click on the image to open the Detailed Printed Version")
