@@ -8,7 +8,7 @@ The Diamond Casino and Resort has four different levels (Hotel / Resort Level, C
 
 If you wish to see a picture with Points of Interest, Short Description and Notes, Click on the non-labeled image and a new tab should pop out with the printed version of the map.
 
-##--------------------------
+## --------------------------
 
 Casino Floo
 Includes:The Security Office; Daily Vault; Waste Disposal; Laundry Room; 
