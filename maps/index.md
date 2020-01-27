@@ -20,4 +20,4 @@ Includes: The Security Office; Daily Vault; Waste Disposal; Laundry Room; Staff 
 ### Vault Floor
 Includes: Entrance Stairwell / Elevator; Security Checkpoint; Office Elevator; Mantrap Entrance; Mantrap and Vault itself
 
-[![Image](https://github.com/Reddey/dchelp/blob/master/maps/cvl/Complete%20Vault%20Level%20Printed.png?raw=true)](https://reddey.github.io/dchelp/maps/cvl "Click on the image to open the Detailed Printed Version")
+[![Image](https://github.com/Reddey/dchelp/blob/master/maps/images/Complete%20Vault%20Level.png?raw=true)](https://reddey.github.io/dchelp/maps/cvl "Click on the image to open the Detailed Printed Version")
