@@ -10,6 +10,13 @@ If you wish to see a picture with Points of Interest, Short Description and Note
 
 ## --------------------------
 
+## Resort Level
+Includes: Placeholder 1; Placeholder 2; Placeholder 3; Placeholder 4
+
+[![Image](Placeholder non-detailed image)](Placeholder detailed image "Click on image to open the Detailed Printed Version")
+
+## --------------------------
+
 ### Casino Floor
 Includes: The Security Office; Daily Vault; Waste Disposal; Laundry Room; Staff Lounge; (Various) Stairwells and Staff Entrance / Exit
 
@@ -28,4 +35,3 @@ Includes: Parking Garage; Driveway; Security Checkpoint; Main Elevator / Stairwe
 Includes: Entrance Stairwell / Elevator; Security Checkpoint; Office Elevator; Mantrap Entrance; Mantrap and Vault itself
 
 [![Image](https://github.com/Reddey/dchelp/blob/master/maps/images/Complete%20Vault%20Level.png?raw=true)](https://reddey.github.io/dchelp/maps/cvl "Click on the image to open the Detailed Printed Version")
-
