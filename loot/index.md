@@ -1,6 +1,6 @@
-# Your loot.
+# Main loot.
 
-## There are 4 main types of loot, with minor subtypes that range anywhere from 0$ to 150000$
+## There are 4 main types of loot.
 
 ### Loot 1: Cash
 
