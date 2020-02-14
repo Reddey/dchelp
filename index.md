@@ -11,3 +11,7 @@ Robbing the Diamond at first may seem like a daunting task, with so many options
 ## The map.
 
 [The maps](https://reddey.github.io/dchelp/maps) are a sub-category to check out, if you want to get an idea about how to navigate / plan out the grand heist. It includes mapping for (Currently 2 out of) 4 different floors within the Diamond Casino and Resort
+
+## The loot.
+
+[The loot](https://reddey.github.io/dchelp/loot) is what you will be stealing from the Diamond Casino & Resort, the main reason you are hitting the place. Well, one of the main reasons alongside insurance scamming Duggan.
