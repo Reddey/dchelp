@@ -1,3 +1,9 @@
+# The loot.
+
+Hitting the casino to get payback on Duggan is one thing, Stealing his crown jewels from under his nose is another. All possible loot (As of 2/14/2020) can be found here, with links to a more detailed page for each one of them wich also includes pictures and side commentary.
+
+[Return to the main Site page](https://reddey.github.io/dchelp/)
+
 # Main loot.
 
 ## There are 4 main types of loot.
