@@ -4,6 +4,8 @@ Hitting the casino to get payback on Duggan is one thing, Stealing his crown jew
 
 [Return to the main Site page](https://reddey.github.io/dchelp/)
 
+* * *
+
 # Main loot.
 
 ## There are 4 main types of loot.
