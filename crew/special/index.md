@@ -12,7 +12,7 @@ This subpage contains multiple crewmen not sorted in any way, they provide eithe
 
 ![Chester McCoy](https://github.com/Reddey/dchelp/blob/master/crew/special/Chester_McCoy_Anim_Update1.gif?raw=true)
 
-Chester McCoy is a unique crewman (So far) as he can fulfill 2 jobs, either sourcing vehicles or weapons. Beware though as picking him twice will charge you the both times instead of only once. (20% If he is picked for both the Gunman role and Driver role)
+Chester McCoy is a unique crewman (So far) as he can fulfill 2 jobs, either sourcing vehicles or weapons. Beware though as picking him twice will charge you the both times instead of only once. (20% If he is picked for both the Gunman role and Driver role). He is unlocked by buying the Bunker, Arena + his workshop or Avenger with the vehicle modification bay. 
 
 ## -------------------------------------------------
 
